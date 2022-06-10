@@ -13,3 +13,16 @@
 ![img_4.png](img_4.png)  
 
 3. 
+![img_5.png](img_5.png)
+
+4. 
+![img_6.png](img_6.png)  
+
+5. 
+![img_7.png](img_7.png)
+
+Показывает статистику выполнения запроса.  
+
+6. 
+![img_8.png](img_8.png)
+
